@@ -2,12 +2,17 @@
 
 
 <main>
-
+    <header>
+        <nav>
+            <ul>
+                <li><a href="./index.html">1.</a></li>
+                <li><a href="./about.html">2.About</a></li>
+            </ul>
+        </nav>
+</header>
 </main>
 
-<script>
-    console.log("hiii")
-</script>
+
 
 
 
