@@ -1,14 +1,21 @@
-## Hi there 👋
+<canvas class="bg"></canvas>
 
 
-Here are some ideas to get you started:
+<main>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</main>
+
+<script>
+    console.log("hiii")
+</script>
+
+
+
+
+
+
+<head>
+    <link rel="stylesheet" href="./styles/style.css">
+    <script src="./assets/js/script.js"></script>
+    <title>README</title>
+</head>
